@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/DwollaRestClient.t
+lib/DwollaRestClient.pm
+META.yml                                 Module meta-data (added by MakeMaker)
